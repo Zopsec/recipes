@@ -1,17 +1,47 @@
+.heading,
+.listed{
+    color: #FDFD96;
+    font-weight: 700px;
+}
+
+html, body {
+    margin: 0;
+  }
+
+.heading {
+    border: 3px;
+    border-style: solid;
+    border-color: goldenrod;
+    padding: 1em;
+    margin: 1em;
+    text-align: center;
+}
+
 .listed {
-    font-family: "Lucida Console", "Times New Roman", sans-serif;
-    font-weight: 700;
-    text-align: left;
-    color: #a2b9bc;
+    font-family: Blippo, "Times New Roman", sans-serif;
+    color: #FDFD96;
     font-size: 32px;
-    padding: 8px;
+    text-align: center;
+    list-style: none;
+    border:3px; 
+    border-style:solid; 
+    border-color:#FF0000; 
+    padding: 1em;
     
 }
 
 .background{
-    background-color: #6b5b95;
+    background-color: RGB(15,90,94);
 }
 
-a{
+a {
     text-decoration: none;
+    color: gold;
+}
+
+
+.ooh {
+    height: auto;
+    width: 350px;
+    text-align: center;
 }

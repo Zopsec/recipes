@@ -2,11 +2,16 @@
     font-family: "Lucida Console", "Times New Roman", sans-serif;
     font-weight: 700;
     text-align: left;
-    color: #e5e672;
+    color: #a2b9bc;
     font-size: 32px;
+    padding: 8px;
     
 }
 
 .background{
-    background-color: #1357a6;
+    background-color: #6b5b95;
+}
+
+a{
+    text-decoration: none;
 }

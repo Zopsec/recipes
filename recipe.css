@@ -38,3 +38,9 @@ p {
     color: gold;
     font-size: 20px;
 }
+
+.subheading {
+    color: lightblue;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}

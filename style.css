@@ -1,20 +1,14 @@
-.heading,
-.listed{
-    color: #FDFD96;
-    font-weight: 700px;
-}
 
 html, body {
     margin: 0;
   }
 
 .heading {
-    border: 3px;
-    border-style: solid;
-    border-color: goldenrod;
+    color: #FDFD96;
     padding: 1em;
     margin: 1em;
     text-align: center;
+    font-weight: 700;
 }
 
 .listed {
@@ -23,9 +17,6 @@ html, body {
     font-size: 32px;
     text-align: center;
     list-style: none;
-    border:3px; 
-    border-style:solid; 
-    border-color:#FF0000; 
     padding: 1em;
     
 }
@@ -46,4 +37,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+hr {
+    color: gold;
 }

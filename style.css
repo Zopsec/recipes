@@ -40,8 +40,10 @@ a {
 }
 
 
-.ooh {
+img {
     height: auto;
     width: 350px;
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
